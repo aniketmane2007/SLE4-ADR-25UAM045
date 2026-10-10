@@ -23,7 +23,7 @@ These values describe the recorded experiment only. They do not prove that BFS i
 
 ## Repository contents
 
-- `SLE4_25UAM045_Aniket_Mane.docx` — final editable submission (upload this file after checking it).
+- `SLE4_25UAM045_Aniket_Mane.docx`
 - `Viva_Preparation.md` — short viva questions and answers.
 - `README.md` — repository overview and links.
 
@@ -31,7 +31,9 @@ These values describe the recorded experiment only. They do not prove that BFS i
 
 - **SLE-2 repository:** https://github.com/aniketmane2007/SLE---2-AI---NEW---Profilling
 - **SLE-1 repository:** https://github.com/aniketmane2007/IAI-Agent-25UAM045
-- **SLE-3:** Add the correct SLE-3 repository or document link here after verifying it contains the architecture referenced in the ADR.
+- **SLE-3:** https://github.com/aniketmane2007/IAI-Agent-25UAM045
+
+(My Mistake , i first made ai agent for SLE - 01 , but then i continued with BFS vs DFS for next SLEs, becouse i felt BFS vs DFS for 8 puzzle solver is easy )
 
 ## Important note
 
