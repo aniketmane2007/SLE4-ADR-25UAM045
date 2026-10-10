@@ -34,7 +34,3 @@ These values describe the recorded experiment only. They do not prove that BFS i
 - **SLE-3:** https://github.com/aniketmane2007/IAI-Agent-25UAM045
 
 (My Mistake , i first made ai agent for SLE - 01 , but then i continued with BFS vs DFS for next SLEs, becouse i felt BFS vs DFS for 8 puzzle solver is easy )
-
-## Important note
-
-Check that the final Word document's claims, performance values, SLE-1 summary, and SLE-3 reference match the actual work submitted. Do not treat the SLE-1 and 8-Puzzle projects as the same implementation unless that is accurate for your coursework.
