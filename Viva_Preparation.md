@@ -28,12 +28,3 @@ It describes a system at four levels: Context, Container, Component, and Code.
 
 ## 8. How does SLE-3 relate to this decision?
 The C4 design describes the search system and its responsibilities, including the search engine and the functions that support state exploration.
-
-## 9. What should you say about AI assistance?
-Explain truthfully which AI assistance you used and identify the code, tests, results, diagrams, and writing you personally completed or verified.
-
-## Before the viva
-- Review your actual code and diagrams.
-- Make sure you can explain the queue, stack, visited-state tracking, and depth limit.
-- Verify the performance values against your submitted report.
-- Do not claim the program reconstructs a complete solution path unless that feature is implemented and tested.
